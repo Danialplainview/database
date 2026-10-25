@@ -18,5 +18,6 @@ Labs:
 - LAB14 - Joining tables (bookstore)
 - LAB15 - Advanced querying (bookstore)
 - LAB16 - Transactions and ACID Properties (bookstore with adapted books)
+- LAB17 - Data Import/Export and Backup (bookstore)
 
 Notes: I used my own schemas instead of the examples in the course materials. Starting from lab 12 I stayed with one bookstore database, adding new tables and inserting more values into existing ones. Working with the same tables each time made it easier to see how new SQL features connect to each other.
